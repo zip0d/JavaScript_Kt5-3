@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zip0d/JavaScript_Kt5-3.git/static/css/main.e7b9ccbd.css",
+    "main.js": "/zip0d/JavaScript_Kt5-3.git/static/js/main.ec395c4e.js",
+    "index.html": "/zip0d/JavaScript_Kt5-3.git/index.html",
+    "main.e7b9ccbd.css.map": "/zip0d/JavaScript_Kt5-3.git/static/css/main.e7b9ccbd.css.map",
+    "main.ec395c4e.js.map": "/zip0d/JavaScript_Kt5-3.git/static/js/main.ec395c4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7b9ccbd.css",
+    "static/js/main.ec395c4e.js"
+  ]
+}
